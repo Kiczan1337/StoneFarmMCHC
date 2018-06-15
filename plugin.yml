@@ -1,6 +1,0 @@
-name: StoneFarmMCHC
-author: Kiczan
-description: Stoniarki jak na MCHC
-version: 1
-main: StoneFarmMCHC\Main
-api: [2.0.0]
