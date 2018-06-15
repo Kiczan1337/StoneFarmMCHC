@@ -1,9 +1,0 @@
----
-#Tu sa craftingi :)
-1:
-  shape:
-        - [[4], [4], [4]]
-        - [[4], [264], [4]]
-        - [[4], [4], [4]]
-  result: ["24", 1, "{display:{Name:§cStoniarka}}"]
-...
